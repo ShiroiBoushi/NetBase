@@ -13,7 +13,7 @@ Run the script with admin privileges.
 
 `.\NetBase.ps1 -l C:\path\` to choose the location of the csv files.
 
-`.\NetBase.ps1 -t` to add a timestamp.
+`.\NetBase.ps1 -t` to add a timestamp to suspect connections.
 
 `.\NetBase.ps1` normal mode. It will compare current established connections with the baseline.
 
